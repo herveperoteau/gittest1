@@ -14,7 +14,7 @@
 {
     // Override point for customization after application launch.
     
-    add error to test jenkins integration continuous
+    //add error to test jenkins integration continuous
     
     return YES;
 }
