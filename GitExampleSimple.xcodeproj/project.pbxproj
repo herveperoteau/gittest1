@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		09066143172D773300CEB164 /* herveperdistribadhoc.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 09066142172D773300CEB164 /* herveperdistribadhoc.mobileprovision */; };
 		09DEAB78172C2EF500C97D9A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09DEAB77172C2EF500C97D9A /* UIKit.framework */; };
 		09DEAB7A172C2EF500C97D9A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09DEAB79172C2EF500C97D9A /* Foundation.framework */; };
 		09DEAB7C172C2EF500C97D9A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09DEAB7B172C2EF500C97D9A /* CoreGraphics.framework */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		09066142172D773300CEB164 /* herveperdistribadhoc.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = herveperdistribadhoc.mobileprovision; sourceTree = "<group>"; };
 		09DEAB74172C2EF500C97D9A /* GitExampleSimple.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitExampleSimple.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		09DEAB77172C2EF500C97D9A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		09DEAB79172C2EF500C97D9A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -56,6 +58,7 @@
 		09DEAB6B172C2EF400C97D9A = {
 			isa = PBXGroup;
 			children = (
+				09066142172D773300CEB164 /* herveperdistribadhoc.mobileprovision */,
 				09DEAB7D172C2EF500C97D9A /* GitExampleSimple */,
 				09DEAB76172C2EF500C97D9A /* Frameworks */,
 				09DEAB75172C2EF500C97D9A /* Products */,
@@ -163,6 +166,7 @@
 				09DEAB8C172C2EF500C97D9A /* Default@2x.png in Resources */,
 				09DEAB8E172C2EF500C97D9A /* Default-568h@2x.png in Resources */,
 				09DEAB91172C2EF500C97D9A /* MainStoryboard.storyboard in Resources */,
+				09066143172D773300CEB164 /* herveperdistribadhoc.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +302,7 @@
 				09DEAB99172C2EF500C97D9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
